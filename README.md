@@ -1,7 +1,6 @@
 
 #  Hotel Management System
 
-## Overview
 
 This is a C program that simulates a hotel room booking system for ERC Hotel. It allows users to view available rooms, book a room, and view details of booked rooms. The system is designed to manage 36 rooms, categorized into VVIP, VIP, and Normal rooms.
 
