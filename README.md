@@ -12,7 +12,10 @@ This is a C program that simulates a hotel room booking system for ERC Hotel. It
 
 
 # Clone to this repository
-```https://github.com/rabin20-04/Hotel-management-project-Ist-sem.git```
+`
+https://github.com/rabin20-04/Hotel-management-project-Ist-sem.git
+
+`
 
 
 ## Prerequisites
